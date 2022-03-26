@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "quynhnga4200\\Mypackage\\": "src/"
+            "Quynhnga4200\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
