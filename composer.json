@@ -1,5 +1,5 @@
 {
-    "name": "QuynhNga4200/mypackage",
+    "name": "quynhnga4200/mypackage",
     "description": "mypackage",
     "keywords": [
         "mypackage"
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "QuynhNga4200\\Mypackage\\": "src/"
+            "quynhnga4200\\Mypackage\\": "src/"
         }
     },
     "autoload-dev": {
